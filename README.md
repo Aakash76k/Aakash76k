@@ -94,10 +94,8 @@ Build real-world Full Stack & AI projects and contribute to Open Source.
 - MongoDB
 
 </td>
-</tr>
 
-<tr>
-<td>
+<td width="50%">
 
 ### 🛠 Tools
 
@@ -109,7 +107,7 @@ Build real-world Full Stack & AI projects and contribute to Open Source.
 
 </td>
 
-<td>
+<td width="50%">
 
 ### 🤖 AI & Others
 
@@ -150,7 +148,7 @@ Build real-world Full Stack & AI projects and contribute to Open Source.
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Aakash76k&theme=tokyonight&no-frame=true&row=1&column=6"/>
+<!-- <img src="https://github-profile-trophy.vercel.app/?username=Aakash76k&theme=tokyonight&no-frame=true&row=1&column=6"/> -->
 
 </div>
 
