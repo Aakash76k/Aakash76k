@@ -30,44 +30,17 @@
 
 ---
 
-# 👨‍💻 About Me
+## 👨‍💻 About Me
 
-```javascript
-const Aakash = {
-    role: "Full Stack + Gen AI Developer",
+💻 Full Stack + Gen AI Developer
 
-    code: [
-        "HTML",
-        "CSS",
-        "JavaScript",
-        "React",
-        "Node.js",
-        "Express.js",
-        "MongoDB",
-        "Python"
-    ],
+🚀 Passionate about building scalable web applications.
 
-    currentlyLearning: [
-        "Advanced React",
-        "Backend Development",
-        "Generative AI",
-        "REST APIs"
-    ],
+🤖 Exploring LLMs, AI APIs & Automation.
 
-    askMeAbout: [
-        "React",
-        "JavaScript",
-        "Node.js",
-        "MERN Stack",
-        "GitHub"
-    ],
+🌱 Currently learning Advanced MERN & AI.
 
-    goal: "Building scalable AI-powered Web Applications 🚀"
-}
-```
-
----
-
+🎯 Open to Internship & Full-Time Opportunities.
 ## 🌟 What I'm Working On
 
 - 🚀 Building Full Stack MERN Projects
