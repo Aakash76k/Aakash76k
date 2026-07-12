@@ -1,4 +1,4 @@
-<div align="center">
+<div align="left">
 
 <img src="./profile.jpeg" width="180" style="border-radius:50%;" alt="Aakash"/>
 
