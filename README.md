@@ -1,60 +1,58 @@
-<div align="left">
+<div align="center">
 
-<img src="./profile.jpeg" width="180" style="border-radius:50%;" alt="Aakash"/>
+<img src="./profile.jpeg" width="170" style="border-radius:50%;" alt="Aakash"/>
 
 # Hi 👋, I'm Aakash
 
-### 🚀 Full Stack Developer | 🤖 Gen AI Developer | MERN Stack Enthusiast
+### 🚀 Full Stack Developer | 🤖 Gen AI Developer
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Gen+AI+Developer;MERN+Stack+Developer;React+%7C+Node.js+%7C+MongoDB;Building+Modern+Web+Applications"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=2500&pause=1000&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;MERN+Stack+Developer;Gen+AI+Developer;React+%7C+Node.js+%7C+MongoDB;Building+AI+Powered+Web+Applications;Always+Learning+New+Technologies"/>
 
 <p>
 
 <a href="https://github.com/Aakash76k">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/aakash-7a088a28a">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:aakash76k747@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=Aakash76k&label=Profile+Views&color=blue&style=flat-square"/>
+<img src="https://komarev.com/ghpvc/?username=Aakash76k&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
-💻 Full Stack + Gen AI Developer
+<img align="right" width="330" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
 
-🚀 Passionate about building scalable web applications.
+### 🚀 Full Stack + Gen AI Developer
 
-🤖 Exploring LLMs, AI APIs & Automation.
+I'm a passionate **Full Stack Developer** focused on building modern, scalable and user-friendly web applications.
 
-🌱 Currently learning Advanced MERN & AI.
+I enjoy creating **AI-powered applications**, learning new technologies and improving my development skills every day.
 
-🎯 Open to Internship & Full-Time Opportunities.
-## 🌟 What I'm Working On
+### 🌱 Currently Learning
 
-- 🚀 Building Full Stack MERN Projects
-- 🤖 Learning Generative AI & AI Integrations
-- ⚡ Improving Data Structures & JavaScript
-- 📚 Exploring Backend Architecture
-- 💼 Looking for Internship & Full-Time Opportunities
+- MERN Stack
+- Advanced React
+- Backend Development
+- REST APIs
+- Generative AI
+- AI Automation
 
----
+### 🎯 Current Goal
 
-## 📫 Contact Me
+Build real-world Full Stack & AI projects and contribute to Open Source.
 
-- 📧 **Email:** `aakash76k747@gmail.com`
-- 💼 **LinkedIn:** https://www.linkedin.com/in/aakash-7a088a28a
-- 🌍 **Portfolio:** Coming Soon 🚀
+<br>
 
 ---
