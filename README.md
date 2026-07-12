@@ -1,6 +1,6 @@
-<div align="center">
+<div align="left">
 
-<img src="./profile.jpeg" width="170" style="border-radius:50%;" alt="Aakash"/>
+
 
 # Hi 👋, I'm Aakash
 
