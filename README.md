@@ -175,7 +175,7 @@ Personal portfolio showcasing my skills, projects and journey as a Full Stack De
 - CSS
 - JavaScript
 
-🔗 **Live Demo:** Coming Soon
+🔗 **Live Demo:** https://my-portfolio-sigma-weld-82.vercel.app/
 
 </td>
 
