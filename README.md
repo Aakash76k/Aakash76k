@@ -24,7 +24,7 @@
 
 </p>
 
-<!-- <img src="https://komarev.com/ghpvc/?username=Aakash76k&label=Profile+Views&color=0e75b6&style=for-the-badge"/> -->
+ <img src="https://komarev.com/ghpvc/?username=Aakash76k&label=Profile+Views&color=0e75b6&style=for-the-badge"/> 
 
 </div>
 
@@ -32,7 +32,7 @@
 
 # 👨‍💻 About Me
 
-<img align="right" width="330" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
+<!-- <img align="right" width="330" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/> -->
 
 ### 🚀 Full Stack + Gen AI Developer
 
